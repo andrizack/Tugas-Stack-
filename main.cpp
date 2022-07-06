@@ -41,7 +41,7 @@ int main() {
    cout << "========================" << endl;
    cout << "========================" << endl;
    cout<<"1) buat stack baru"<<endl;
-   cout<<"2) Tam ah elemen"<<endl;
+   cout<<"2) Tambah elemen"<<endl;
    cout<<"3) Hapus elemen"<<endl;
    cout<<"4) Keluar"<<endl;
    cout << "========================" << endl;
