@@ -1,6 +1,6 @@
 #include <iostream>
-//ALDI//
-//1121031014//
+//Andri Kamaludin//
+//1121031018//
 //INFORMATIKA B//
 using namespace std;
 struct Node {
